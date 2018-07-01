@@ -1,0 +1,57 @@
+
+p {
+    line-height: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, h4, li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    width:960px;
+    margin: 0 auto;
+}
+
+.header {
+    width: 100%;
+    background: white;
+    position: fixed;
+    top: 0;
+}
+
+.name {
+    float: left;
+    width: 350px;
+    margin-top: 5px;
+    background-color: teal;
+    text-align: center;
+    color: #fff;
+}
+
+.heading {
+    color: teal;
+}
+
+a {
+    text-decoration: none;
+    color: #777777;
+}
+
+li {
+    list-style: none;
+    float: left;
+    margin-left: 10px;
+    padding-top: 20px;
+}
+
+.nav {
+    float: right;
+}
+
+.section {
+    margin-top: 100px;
+    margin-left: 15px;
+    width: 40%;
+    float: left;
+}
