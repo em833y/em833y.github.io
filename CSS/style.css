@@ -47,6 +47,42 @@ h1, h2, h3, h4, li{
     border-width: 0px 0px 2px 0px;
 }
 
+.form {
+    line-height: 1.75em;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+    text-align: justify;
+    color: #777777;
+    margin: 20px 0px 0px 0px;
+}
+
+.bigtext {
+    line-height: 1.25em;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1.5px;
+    color: #777777;
+    height: 30px;
+    text-indent: 15px;
+}
+
+#message-text {
+    line-height: 1.25em;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1.5px;
+    color: #777777;
+    text-indent: 15px;
+}
+
+.button {
+    width: 125px;
+    height: 40px;
+    margin-top: 5px;
+    background-color: #4aaaa5;
+    text-align: center;
+    color: #fff;
+    border-style: none;
+}
+
 a {
     text-decoration: none;
     color: #777777;
@@ -105,4 +141,3 @@ footer p{
     border-style: solid none none none;
     border-width: 8px 0px 0px 0px;
 }
-
