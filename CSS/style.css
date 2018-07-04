@@ -141,3 +141,39 @@ footer p{
     border-style: solid none none none;
     border-width: 8px 0px 0px 0px;
 }
+
+.images {
+    float: left;
+    position: relative;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.images2 {
+    float: right;
+    position: relative;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.images2 .text-block {
+    position: absolute;
+    bottom: 70px;
+    background-color: #4aaaa5;
+    color: #fff;
+    width: 71.5%;
+    padding: 0px;
+    text-align: center;
+
+}
+
+.images .text-block {
+    position: absolute;
+    bottom: 70px;
+    background-color: #4aaaa5;
+    color: #fff;
+    width: 71.5%;
+    padding: 0px;
+    text-align: center;
+
+}
